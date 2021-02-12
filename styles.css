@@ -1,0 +1,92 @@
+
+}
+.navbar{
+  background-color:#F4F9F9;
+}
+.name{
+  font-family: 'BioRhyme';
+  font-size: 15rem;
+}
+.nav-item{
+  padding: 0 18px 0 0;
+}
+.image-column,.title-text{
+  padding:0 10%;
+}
+.image-column{
+
+  padding: 0,15%;
+}
+.profile-image{
+  height: 250px;
+  padding: 10% 2% 0 18%;
+  margin-left:auto;
+  margin-right: auto;
+}
+.head{
+  font-family: 'Scope One';
+}
+.nor-text{
+  font-family: 'Linden Hill';
+}
+.title-text{
+  padding-top: 6%;
+  background-color:#F4F9F9;
+}
+#title,#skills,#qualifications,#projects,#achievements,#projects,#softwares,#program{
+  padding: 0 10%;
+
+  background-color:#F4F9F9;
+  text-align: center;
+}
+.feature{
+  text-align:center;
+  padding: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom:1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+/* qualification */
+#qualifications{
+  text-align: center;
+}
+
+.quali-column{
+  padding-left: 10%;
+  text-align: center;
+}
+/* achievement*/
+ #achievements{
+  padding:0 10%;
+
+}
+.carousel{
+  background-color: #ECE2E1;
+}
+.carousel-img{
+  width: auto;
+ height:400px;
+ margin-left: auto;
+ margin-right: auto;
+}
+/* softwares */
+.soft-image,{
+  width: 10%;
+  height: 10%;
+}
+.soft-column,.prog-column{
+  text-align: center;
+  padding-left: 10%;
+}
+/* projects */
+.project-column{
+  padding-left: 10%;
+}
+.card{
+  padding-top: 10%;
+}
